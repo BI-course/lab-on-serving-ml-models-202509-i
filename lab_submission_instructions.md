@@ -6,13 +6,13 @@
 
 **Name of the team on GitHub Classroom:**
 
-**Member 1:**
+**081000 - Peter Kamau Maina:**
 
 | **Details**                                                                                                                           | **Comment** |
 |:--------------------------------------------------------------------------------------------------------------------------------------|:------------|
-| **Student ID**                                                                                                                        |             |
-| **Name**                                                                                                                              |             |
-| **What part of the lab did you personally<br/>contribute to (provide a link to the<br/>branch(es)), and what did you learn from it?** |             |
+| **Student 081000**                                                                                                                        |             |
+| **PeterMaina**                                                                                                                              |             |
+| **The Advanced step** |             |
 
 **Member 2:**
 
